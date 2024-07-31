@@ -1,8 +1,5 @@
  ## Hi there 👋
 
-<!--
-**mel-1804/mel-1804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my training as a developer
