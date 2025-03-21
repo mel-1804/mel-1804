@@ -1,7 +1,7 @@
  ## Hi there 👋
 
-- 🔭 I’m currently working on my training as a developer
-- 🌱 I’m currently learning all about FullStack Development with 4Geeks Academy
+- 🔭 Currently improving in Algorithms and Data Structure. Learning C++
+- 🌱 FullStack Developer thanks to 4Geeks Academy. 
 - 📫 How to reach me: melissa.ortiz.m88@gmail.com / +569 675 34 201
 - 😄 Pronouns: she/her
 - 🤗 More about me: I come from the Chemical Industry 👩‍🔬
