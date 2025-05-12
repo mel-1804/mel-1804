@@ -1,6 +1,6 @@
  ## Hi there 👋
 
-- 🔭 Working in an application for Human Resources 👥🗃️🗓️
+- 🔭 Working on an application for Human Resources 👥🗃️🗓️
 - 🌱 FullStack Developer thanks to 4Geeks Academy. 
 - 📫 How to reach me: melissa.ortiz.m88@gmail.com / +569 675 34 201
 - 😄 Pronouns: she/her
