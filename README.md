@@ -1,6 +1,6 @@
  ## Hi there 👋
 
-- 🔭 Volunteering in TrainIT, learning Typescript and Nextjs.
+- 🔭 Volunteering in TrainIT, coding with Nextjs and React Typescript.
 - 🌱 FullStack Developer thanks to 4Geeks Academy. 
 - 📫 How to reach me: melissa.ortiz.m88@gmail.com / +569 675 34 201
 - 😄 Pronouns: she/her
